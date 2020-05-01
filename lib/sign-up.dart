@@ -15,7 +15,7 @@ class SignUp extends StatelessWidget {
         body: Container(
           decoration: BoxDecoration(
               image: DecorationImage(
-                image: AssetImage('Images/night.png'),
+                image: AssetImage('Images/night.jpg'),
                 fit: BoxFit.cover
               )
           ),
@@ -25,7 +25,7 @@ class SignUp extends StatelessWidget {
               Container(
                 padding: EdgeInsets.all(30.0),
                 child: Image.asset(
-                  'Images/day.png',
+                  'Images/Dribbble.jpg',
                   width: 30.0,
                 ),
               ),

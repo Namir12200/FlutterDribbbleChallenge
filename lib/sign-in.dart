@@ -13,7 +13,7 @@ class SignIn extends StatelessWidget {
         body: Container(
           decoration: BoxDecoration(
               image: DecorationImage(
-                  image: AssetImage('Images/night.png'),
+                  image: AssetImage('Images/night.jpg'),
                   fit: BoxFit.cover
               )
           ),
@@ -23,7 +23,7 @@ class SignIn extends StatelessWidget {
               Container(
                 padding: EdgeInsets.all(30.0),
                 child: Image.asset(
-                  'Images/day.png',
+                  'Images/Dribbble.jpg',
                   width: 30.0,
                 ),
               ),
@@ -60,7 +60,7 @@ class SignIn extends StatelessWidget {
                               child: Container(
                                 margin: EdgeInsets.fromLTRB(0.0, 0.0, 20.0, 0.0),
                                 child: Text(
-                                  'Welcome back Alice',
+                                  'Welcome back John',
                                   style: TextStyle(
                                     fontSize: 28.0,
                                     fontWeight: FontWeight.bold,
@@ -71,7 +71,7 @@ class SignIn extends StatelessWidget {
                             Container(
                               margin: EdgeInsets.fromLTRB(20.0, 0.0, 0.0, 0.0),
                               child: CircleAvatar(
-                                backgroundImage: AssetImage('Images/night.png'),
+                                backgroundImage: AssetImage('Images/pic1.jpeg'),
                               ),
                             )
                           ],
@@ -131,7 +131,7 @@ class SignIn extends StatelessWidget {
                               child: FlatButton(
                                 onPressed: () {},
                                 child: Image.asset(
-                                  'Images/night.png',
+                                  'Images/Google.png',
                                   width: 30.0,
                                 ),
                               ),
@@ -142,7 +142,7 @@ class SignIn extends StatelessWidget {
                               child: FlatButton(
                                 onPressed: () {},
                                 child: Image.asset(
-                                  'Images/day.png',
+                                  'Images/Facebook.png',
                                   width: 30.0,
                                 ),
                               ),
@@ -153,7 +153,7 @@ class SignIn extends StatelessWidget {
                               child: FlatButton(
                                 onPressed: () {},
                                 child: Image.asset(
-                                  'Images/day.png',
+                                  'Images/twitter.png',
                                   width: 30.0,
                                 ),
                               ),
