@@ -1,16 +1,21 @@
-# flutterapptrip
+# FlutterDesignChallenge
 
 A new Flutter application.
 
-## Getting Started
+## Introduction
 
-This project is a starting point for a Flutter application.
+A student who is always excited to work on new projects.
 
-A few resources to get you started if this is your first Flutter project:
+## dribble URL
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+https://dribbble.com/shots/10168862-trip-login-and-registration
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+<img src= "Images/HomeScreen.png" width="300" />
+<img src= "Images/SignUp.png" width="300" />
+<img src= "Images/SignIn.png" width="300" />
+
+## Authors
+
+- __Namirul Islam__ - namir12200
