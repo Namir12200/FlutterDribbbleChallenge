@@ -12,9 +12,9 @@ https://dribbble.com/shots/10168862-trip-login-and-registration
 
 ## Screenshots
 
-![Home Screen Page](Images/HomeScreen.png)
-![Sign Up Page](Images/SignUp.png)
-![Sign In Page](Images/SignIn.png)
+<img src= "Images/HomeScreen.png" width="300" />
+<img src= "Images/SignUp.png" width="300" />
+<img src= "Images/SignIn.png" width="300" />
 
 ## Authors
 
